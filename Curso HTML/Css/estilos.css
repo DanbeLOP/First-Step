@@ -1,0 +1,16 @@
+.op1{
+		color: red;
+	} 
+.op2{
+	color: magenta;
+}
+.Titulo_principal{
+	text-align: center;
+
+
+}
+
+span li {
+	list-style: none ;
+	display: inline ;
+}
